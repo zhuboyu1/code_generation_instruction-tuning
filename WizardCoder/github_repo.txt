@@ -1,0 +1,2 @@
+Github: https://github.com/nlpxucan/WizardLM
+Hugging Face: https://huggingface.co/WizardLMTeam
