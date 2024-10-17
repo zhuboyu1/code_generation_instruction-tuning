@@ -1,2 +1,2 @@
-github_repo里的是原paper中的github repo和huggingface page，他们用的是raw dataset是Code_Alpaca中的Code Alpaca 20k dataset，然后在此基础上做evol-instruction得到最终用来finetuning的dataset，但是这个dataset他们没有公开出来。
+github_repo里的是原paper中的github repo和huggingface page，他们用的是raw dataset是Code_Alpaca中的Code Alpaca 20k dataset，然后在此基础上做evol-instruction得到最终用来finetuning的dataset，但是这个dataset他们没有公开出来。 \n
 在data文件夹里是Open Source Implementation of Evol-Instruct-Code，这里的Hugging Face是数据集，github repo是如何通过Recreating WizardCoder得到这个数据集的
